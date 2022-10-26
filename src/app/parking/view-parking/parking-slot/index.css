@@ -1,0 +1,10 @@
+.parking-slot {
+    height: 150px;
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-width: 0.1px;
+    border-color: brown;
+    border-style: solid;
+}

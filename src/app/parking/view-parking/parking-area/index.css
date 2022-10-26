@@ -1,0 +1,16 @@
+.parking-area {
+    border-radius: 10px;
+    /* height: 400px; */
+    width: 80%;
+}
+
+.parking-slots-container {
+    border-width: 0.1px;
+    border-color: black;
+    border-style: solid;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    column-gap: 5px;
+    row-gap: 5px;
+}

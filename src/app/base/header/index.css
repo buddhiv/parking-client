@@ -1,0 +1,13 @@
+.header {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 4px 0px;
+}
+
+.title-text {
+    text-decoration: unset;
+    color: unset;
+}
